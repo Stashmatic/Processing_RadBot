@@ -1,7 +1,8 @@
 Processing_RadBot
+Let's try this again, shall we?
 =================
 
-Let's try this again, shall we?
+
 import processing.serial.*;
 Serial myPort;
 String str1;
